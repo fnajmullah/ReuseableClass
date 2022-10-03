@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class C extends A{
     C(){
         super("Hh");

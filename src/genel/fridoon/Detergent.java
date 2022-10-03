@@ -1,4 +1,4 @@
-import sun.misc.Cleaner;
+package genel.fridoon;
 
 public class Detergent extends Cleanser{
     public void scrub(){

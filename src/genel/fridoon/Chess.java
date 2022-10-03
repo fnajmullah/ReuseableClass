@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class Chess extends BoardGame{
     Chess(){
         super(11);

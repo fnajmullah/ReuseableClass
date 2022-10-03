@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class Cleanser {
     private String s="Cleanser";
     public void append(String a){

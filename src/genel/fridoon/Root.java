@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class Root{
     Root(String name){
         System.out.println("Root construcotr");

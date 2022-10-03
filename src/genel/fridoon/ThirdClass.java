@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class ThirdClass extends SecondClass{
     ThirdClass(){
         System.out.println("Third class constructor");

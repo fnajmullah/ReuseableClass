@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class Cartoon extends Drawing {
     public Cartoon(){
         System.out.println("Cartoon constuctor");

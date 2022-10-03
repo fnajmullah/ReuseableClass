@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class Stem  extends Root{
     Stem(String n){
         super("hhhhhhhh");

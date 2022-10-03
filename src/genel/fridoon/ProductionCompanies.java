@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class ProductionCompanies extends Detergent{
     public void scrub(){
         System.out.println("Override the scrub method");

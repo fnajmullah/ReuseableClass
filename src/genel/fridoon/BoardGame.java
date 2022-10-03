@@ -1,3 +1,5 @@
+package genel.fridoon;
+
 public class BoardGame extends Game{
     BoardGame(int i){
         super(i);
